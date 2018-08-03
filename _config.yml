@@ -103,3 +103,6 @@ asciinema:
   enable: true
 nofollow:
   enable: true
+
+uncss:
+  priority : 12
